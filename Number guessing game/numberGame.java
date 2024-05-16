@@ -49,5 +49,6 @@ try {
             }    
         
     }
+    myObj.close();
 }
 }
