@@ -30,6 +30,6 @@ public class gradecalculator {
          System.out.println("Your Total percentage is: " + percentage);
          System.out.println("Your average marks are: " + average);
          System.out.println("Your grade is:" + grade);
-
+         myObj.close();
     }
 }
